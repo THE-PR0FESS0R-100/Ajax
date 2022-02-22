@@ -44,7 +44,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-Master/Ajax=">
+<a href="https://heroku.com/deploy?template=https://github.com/The-PR0FESS0R-100/Ajax=">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
